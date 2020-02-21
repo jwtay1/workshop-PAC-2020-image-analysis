@@ -1,7 +1,7 @@
 # Image Analysis Tutorial
 
-  * Where: Discovery Learning Center - Room 1B70
-  * When: Friday, March 6 2020 10:00 - 11:30 am
+  * Where: [Discovery Learning Center - Room 1B70](https://map.concept3d.com/?id=336#!m/193839)
+  * When: [Friday, March 6 2020 10:00 - 11:30 am](https://calendar.colorado.edu/event/image_analysis_tutorial#.Xk77EyhKjIV)
   * Who's invited: Everyone! (coffee + snacks are provided)
   * What to bring: Your laptop with MATLAB installed (see below)
   
