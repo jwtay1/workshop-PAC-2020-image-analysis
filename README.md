@@ -15,7 +15,7 @@ If you are attending the workshop, please sign in [here](https://docs.google.com
 
 > IMPORTANT: Please install MATLAB before the workshop. Plan for ~1-2 hours with internet connection for installation.
 
-The University of Colorado provides a site license for MATLAB. Please follow the instructions at [OIT]( https://oit.colorado.edu/software-hardware/software-downloads-and-licensing/matlab) for details.
+The University of Colorado provides a site license for MATLAB. Please follow the instructions at [OIT]( https://oit.colorado.edu/software-hardware/software-downloads-and-licensing/matlab).
 
 If you have any issues, please email me at jian.tay@colorado.edu and I will try my best to help.
 
